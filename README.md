@@ -2,7 +2,5 @@
 some basic web autotests will be stored here
 https://stepik.org/course/575/
 
-TEST commit
 
-Test test
 
